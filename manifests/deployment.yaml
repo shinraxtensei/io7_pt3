@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: playground
-        image: darkhamid/pt3:v2
+        image: darkhamid/pt3:v1
         ports:
         - containerPort: 8888
 ---
